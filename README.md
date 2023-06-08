@@ -38,6 +38,7 @@ We have developed the grouped bar graph to analyze the months with the highest a
  
 This bar graph Demonstrates that cancellations are most common when prices are greatest and are least common when they are lowest. Therefore, the cost of the accommodation is solely responsible for the cancellation. 
 Now, let’s see which country has the highest reservation canceled. The top country is Portugal with the highest number of cancellations.
+
 ![download (5)](https://github.com/VPMANOJKUMAR/Hotel-booking-analysis-using-python/assets/124855537/7f51aa9d-e915-438e-b708-5a176110210f) 
 
 Let’s check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents? Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of clients book hotels directly by visiting them and making reservations.
